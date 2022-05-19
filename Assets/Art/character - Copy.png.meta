@@ -159,6 +159,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -1180,6 +1181,52 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      character - Copy_24: -4094353793263569885
+      character - Copy_11: -1537239390138611046
+      character - Copy_16: 3046835611165993808
+      character - Copy_19: 3332822749105050054
+      character - Copy_28: 2789541496165320301
+      character - Copy_14: 8749560352395566459
+      character - Copy_1: 5018463476502184115
+      character - Copy_26: 7373286762799481210
+      character - Copy_33: -5384692518419655792
+      character - Copy_39: -7878553430352717241
+      character - Copy_13: -7689145955999576418
+      character - Copy_15: -8985585285723457612
+      character - Copy_8: -6874052883184534580
+      character - Copy_10: -8502109461398888335
+      character - Copy_12: -6687222937262262791
+      character - Copy_35: -1325646976711464886
+      character - Copy_6: -9105454674227727032
+      character - Copy_36: -4667426722639000146
+      character - Copy_37: -5222531163387598751
+      character - Copy_30: 5716085631371968484
+      character - Copy_34: 4038448830646761469
+      character - Copy_5: 790308472300663441
+      character - Copy_43: 6711677714924209964
+      character - Copy_44: -2362890318370378836
+      character - Copy_17: 7157987042821563294
+      character - Copy_9: 615324915950268423
+      character - Copy_25: -1104720412755815472
+      character - Copy_40: -7995595393748108583
+      character - Copy_38: -6286691844668198234
+      character - Copy_18: 4415244196597586497
+      character - Copy_29: -4181701869719370039
+      character - Copy_41: 7086116257732402560
+      character - Copy_32: 2540637768189118962
+      character - Copy_27: -2705598861731178558
+      character - Copy_22: 1344069110283628421
+      character - Copy_2: -8397832097927466998
+      character - Copy_4: 252242095469006000
+      character - Copy_0: 3404370611585426874
+      character - Copy_21: -5506871564188873384
+      character - Copy_3: -555525726495113094
+      character - Copy_42: 5932082720727435509
+      character - Copy_31: -6019231273425568424
+      character - Copy_23: 4244336056968401357
+      character - Copy_7: 4598239975281904700
+      character - Copy_20: 3189475347361013364
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
