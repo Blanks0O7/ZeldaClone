@@ -17,15 +17,18 @@ public class enemy : MonoBehaviour
     public int baseAttack;
     public float moveSpeed;
 
-    void Start()
+    public void knock(Rigidbody2D myRigidbody, float Knocktime)
     {
-        
+        StartCoroutine(KnockCo(myRigidbody, Knocktime));
     }
-
-
-
-    void Update()
+    private IEnumerator KnockCo(Rigidbody2D myRigidbody,float knocktime)
     {
-        
+        if (myRigidbody != null)
+        {
+            yield return new WaitForSeconds(knocktime);
+            myRigidbody.velocity = Vector2.zero;
+            myRigidbody.GetComponent<enemy>().currentState = EnemyState.idle;
+            myRigidbody.velocity = Vector2.zero;
+        }
     }
 }
